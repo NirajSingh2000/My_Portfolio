@@ -1,2 +1,5 @@
 # NikkuBoss.github.io
-This is my first website.. and I Love Coading...
+Hello 🤗
+This is my first Portfolio WebPage. This is developed by Mee.
+This web page is developed using HTML5, BOOTSTRAP,and CSS.
+This web Page is about my Portfolio..😍
